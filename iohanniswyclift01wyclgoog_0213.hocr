@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iohanniswyclift01wyclgoog/iohanniswyclift01wyclgoog_0213.png"; bbox 0 0 958 1473; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 302 1146 606 1219">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 302 1146 606 1219">
+     <span class='ocr_line' id='line_1_1' title="bbox 302 1146 606 1194; baseline 0.003 -19"><span class='ocrx_word' id='word_1_1' title='bbox 302 1181 307 1189; x_wconf 72' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 334 1146 606 1194; x_wconf 37' lang='lat' dir='ltr'>„2222an</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 308 1195 588 1219; baseline 0 -7"><span class='ocrx_word' id='word_1_3' title='bbox 308 1195 588 1219; x_wconf 53' lang='lat' dir='ltr'>fflgmombmo&#39;aem&#39;ss‘</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 958 1473">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 958 1473">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 958 1473; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 958 1473; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
